@@ -1,0 +1,2 @@
+Info (10281): Verilog HDL Declaration information at proc.v(12): object "AddSub" differs only in case from object "addsub" in the same scope File: D:/Self_Training/FPGA/Practise/Digital_logic/proc_9bits/code/proc.v Line: 12
+Info (10281): Verilog HDL Declaration information at part3.v(4): object "run" differs only in case from object "Run" in the same scope File: D:/Self_Training/FPGA/Practise/Digital_logic/proc_9bits/code/part3.v Line: 4
